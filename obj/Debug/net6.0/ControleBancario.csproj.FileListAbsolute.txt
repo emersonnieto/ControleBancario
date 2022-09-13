@@ -1,0 +1,15 @@
+D:\ExerciciosCSharp\ControleBancario\bin\Debug\net6.0\ControleBancario.exe
+D:\ExerciciosCSharp\ControleBancario\bin\Debug\net6.0\ControleBancario.deps.json
+D:\ExerciciosCSharp\ControleBancario\bin\Debug\net6.0\ControleBancario.runtimeconfig.json
+D:\ExerciciosCSharp\ControleBancario\bin\Debug\net6.0\ControleBancario.dll
+D:\ExerciciosCSharp\ControleBancario\bin\Debug\net6.0\ControleBancario.pdb
+D:\ExerciciosCSharp\ControleBancario\obj\Debug\net6.0\ControleBancario.csproj.AssemblyReference.cache
+D:\ExerciciosCSharp\ControleBancario\obj\Debug\net6.0\ControleBancario.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExerciciosCSharp\ControleBancario\obj\Debug\net6.0\ControleBancario.AssemblyInfoInputs.cache
+D:\ExerciciosCSharp\ControleBancario\obj\Debug\net6.0\ControleBancario.AssemblyInfo.cs
+D:\ExerciciosCSharp\ControleBancario\obj\Debug\net6.0\ControleBancario.csproj.CoreCompileInputs.cache
+D:\ExerciciosCSharp\ControleBancario\obj\Debug\net6.0\ControleBancario.dll
+D:\ExerciciosCSharp\ControleBancario\obj\Debug\net6.0\refint\ControleBancario.dll
+D:\ExerciciosCSharp\ControleBancario\obj\Debug\net6.0\ControleBancario.pdb
+D:\ExerciciosCSharp\ControleBancario\obj\Debug\net6.0\ControleBancario.genruntimeconfig.cache
+D:\ExerciciosCSharp\ControleBancario\obj\Debug\net6.0\ref\ControleBancario.dll
